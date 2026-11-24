@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="420" viewBox="0 0 390 420" role="img" aria-label="Corporate gifting hero">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6B1F2A"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="390" height="420" fill="url(#g)"/>
+  <rect x="10" y="10" width="370" height="400" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="358" height="388" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.132"/>
+<path d="M 14 47.150000000000006 L 14 14 L 47.150000000000006 14" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="41.300000000000004" cy="41.300000000000004" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 376 47.150000000000006 L 376 14 L 342.85 14" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="348.7" cy="41.300000000000004" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 14 372.85 L 14 406 L 47.150000000000006 406" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="41.300000000000004" cy="378.7" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 376 372.85 L 376 406 L 342.85 406" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="348.7" cy="378.7" r="2" fill="#9C7A3C" opacity="0.32"/>
+  <g opacity="0.5"><rect x="311.82272727272726" y="309.51818181818186" width="78.35454545454546" height="51.231818181818184" rx="4.5204545454545455" fill="none" stroke="#9C7A3C" stroke-width="2.1095454545454544"/><path d="M 332.91818181818184 309.51818181818186 L 332.91818181818184 297.4636363636364 Q 332.91818181818184 291.43636363636364 338.94545454545454 291.43636363636364 L 363.05454545454546 291.43636363636364 Q 369.08181818181816 291.43636363636364 369.08181818181816 297.4636363636364 L 369.08181818181816 309.51818181818186" fill="none" stroke="#9C7A3C" stroke-width="1.9437954545454545"/></g><circle cx="351.0" cy="327.6" r="66.3" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.25"/>
+  
+  
+  
+</svg>

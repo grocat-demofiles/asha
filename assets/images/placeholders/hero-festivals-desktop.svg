@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="560" viewBox="0 0 1440 560" role="img" aria-label="Festival collections hero">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6EFE2"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="560" fill="url(#g)"/>
+  <rect x="10" y="10" width="1420" height="540" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="1408" height="528" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.132"/>
+<path d="M 14 61.6 L 14 14 L 61.6 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="53.2" cy="53.2" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 1426 61.6 L 1426 14 L 1378.4 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="1386.8" cy="53.2" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 14 498.4 L 14 546 L 61.6 546" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="53.2" cy="506.8" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 1426 498.4 L 1426 546 L 1378.4 546" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="1386.8" cy="506.8" r="2" fill="#6B1F2A" opacity="0.32"/>
+  <g opacity="0.5"><path d="M 1235.418181818182 449.7818181818182 Q 1296.0 497.3818181818182 1356.581818181818 449.7818181818182 Q 1326.290909090909 428.1454545454546 1296.0 441.1272727272727 Q 1265.709090909091 428.1454545454546 1235.418181818182 449.7818181818182 Z" fill="none" stroke="#6B1F2A" stroke-width="3.029090909090909"/><path d="M 1296.0 423.8181818181818 Q 1283.0181818181818 389.2 1296.0 367.56363636363636 Q 1308.9818181818182 389.2 1296.0 423.8181818181818 Z" fill="#6B1F2A" opacity="0.85"/></g><circle cx="1296.0" cy="436.8" r="95.2" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.25"/>
+  
+  
+  
+</svg>

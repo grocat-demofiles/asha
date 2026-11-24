@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-label="The Sweet Journal hero">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6EFE2"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="420" fill="url(#g)"/>
+  <rect x="10" y="10" width="1420" height="400" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="1408" height="388" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.132"/>
+<path d="M 14 49.7 L 14 14 L 49.7 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="43.400000000000006" cy="43.400000000000006" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 1426 49.7 L 1426 14 L 1390.3 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="1396.6" cy="43.400000000000006" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 14 370.3 L 14 406 L 49.7 406" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="43.400000000000006" cy="376.6" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 1426 370.3 L 1426 406 L 1390.3 406" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="1396.6" cy="376.6" r="2" fill="#6B1F2A" opacity="0.32"/>
+  <g opacity="0.5"><path d="M 1257.0545454545454 298.39090909090913 L 1296.0 308.1272727272727 L 1334.9454545454546 298.39090909090913 L 1334.9454545454546 356.8090909090909 L 1296.0 347.0727272727273 L 1257.0545454545454 356.8090909090909 Z" fill="none" stroke="#6B1F2A" stroke-width="2.093318181818182"/><line x1="1296.0" y1="308.1272727272727" x2="1296.0" y2="347.0727272727273" stroke="#6B1F2A" stroke-width="1.8174545454545457"/></g><circle cx="1296.0" cy="327.6" r="71.4" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.25"/>
+  
+  
+  
+</svg>

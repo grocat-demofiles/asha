@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Diwali">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6EFE2"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="360" fill="url(#g)"/>
+  <rect x="10" y="10" width="460" height="340" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="448" height="328" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.132"/>
+<path d="M 14 44.6 L 14 14 L 44.6 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="39.2" cy="39.2" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 466 44.6 L 466 14 L 435.4 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="440.8" cy="39.2" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 14 315.4 L 14 346 L 44.6 346" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="39.2" cy="320.8" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 466 315.4 L 466 346 L 435.4 346" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="440.8" cy="320.8" r="2" fill="#6B1F2A" opacity="0.32"/>
+  
+  
+  <path d="M 171.27272727272725 194.72727272727272 Q 240.0 248.72727272727275 308.72727272727275 194.72727272727272 Q 274.3636363636364 170.1818181818182 240.0 184.9090909090909 Q 205.63636363636363 170.1818181818182 171.27272727272725 194.72727272727272 Z" fill="none" stroke="#6B1F2A" stroke-width="3.436363636363636"/><path d="M 240.0 165.27272727272728 Q 225.27272727272728 126.0 240.0 101.45454545454545 Q 254.72727272727272 126.0 240.0 165.27272727272728 Z" fill="#6B1F2A" opacity="0.85"/>
+  
+</svg>

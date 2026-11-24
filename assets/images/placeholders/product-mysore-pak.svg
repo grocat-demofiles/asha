@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-label="Mysore Pak">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6EFE2"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" fill="url(#g)"/>
+  <rect x="10" y="10" width="620" height="620" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="608" height="608" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.132"/>
+<path d="M 14 68.4 L 14 14 L 68.4 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="58.800000000000004" cy="58.800000000000004" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 626 68.4 L 626 14 L 571.6 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="581.2" cy="58.800000000000004" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 14 571.6 L 14 626 L 68.4 626" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="58.800000000000004" cy="581.2" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 626 571.6 L 626 626 L 571.6 626" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="581.2" cy="581.2" r="2" fill="#6B1F2A" opacity="0.32"/>
+  
+  <circle cx="320.0" cy="256.0" r="128.0" fill="#FFFFFF" opacity="0.6"/><circle cx="320.0" cy="256.0" r="128.0" fill="none" stroke="#6B1F2A" stroke-width="1.2" opacity="0.4"/><circle cx="320.0" cy="256.0" r="134.0" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.18"/>
+  <rect x="244.36363636363637" y="203.63636363636363" width="151.27272727272728" height="104.72727272727273" rx="8.727272727272727" fill="none" stroke="#6B1F2A" stroke-width="4.072727272727272"/><line x1="244.36363636363637" y1="256.0" x2="395.6363636363636" y2="256.0" stroke="#6B1F2A" stroke-width="2.443636363636364"/><line x1="294.9818181818182" y1="203.63636363636363" x2="294.9818181818182" y2="308.3636363636364" stroke="#6B1F2A" stroke-width="2.443636363636364"/><line x1="345.0181818181818" y1="203.63636363636363" x2="345.0181818181818" y2="308.3636363636364" stroke="#6B1F2A" stroke-width="2.443636363636364"/>
+  <text x="50%" y="396.8" text-anchor="middle" font-family="Georgia, 'Playfair Display', serif" font-size="33.28" fill="#241F1A" font-weight="600">Mysore Pak</text><text x="50%" y="418.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="20.48" fill="#6B1F2A" letter-spacing="1">ASHA SWEET CENTER</text>
+</svg>

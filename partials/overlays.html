@@ -1,0 +1,55 @@
+<!-- Mobile Nav Drawer -->
+<div class="drawer-overlay" id="mobileNavOverlay"></div>
+<nav class="side-drawer from-left" id="mobileNavDrawer" aria-label="Mobile navigation">
+  <div class="drawer-header">
+    <img src="assets/images/placeholders/logo.svg" alt="Asha Sweet Center" style="height:28px;">
+    <button class="drawer-close" data-close-drawer aria-label="Close menu">&times;</button>
+  </div>
+  <div class="drawer-body">
+    <a href="https://quickorder.ashasweetcenter.com/" target="_blank" rel="noopener" class="btn btn-primary btn-block" style="margin-bottom:var(--sp-20);gap:8px;">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2C8 2 5 5 5 9c0 5 7 13 7 13s7-8 7-13c0-4-3-7-7-7z"/><circle cx="12" cy="9" r="2.4"/></svg>
+      Bengaluru Quick Order — 45 min
+    </a>
+    <ul style="display:flex;flex-direction:column;gap:4px;">
+      <li><a href="collections.html" style="display:block;padding:12px 0;font-weight:700;border-bottom:1px solid var(--color-border);">Shop All</a></li>
+      <li><a href="collection-detail.html?c=sweets" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Sweets</a></li>
+      <li><a href="collection-detail.html?c=namkeen" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Namkeen</a></li>
+      <li><a href="collection-detail.html?c=dryfruits" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Dry Fruits</a></li>
+      <li><a href="corporate-gifting.html" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Corporate Gifting</a></li>
+      <li><a href="festivals.html" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Festivals</a></li>
+    </ul>
+    <p class="eyebrow" style="margin:var(--sp-20) 0 8px;">More</p>
+    <ul style="display:flex;flex-direction:column;gap:4px;">
+      <li><a href="index.html#our-story" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">About</a></li>
+      <li><a href="seasonal.html" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Seasonal Collections</a></li>
+      <li><a href="collection-detail.html?c=giftcards" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Gift Cards</a></li>
+      <li><a href="collection-detail.html?c=combobox" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Combo Box</a></li>
+      <li><a href="blog.html" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">Blog</a></li>
+      <li><a href="#" style="display:block;padding:12px 0;border-bottom:1px solid var(--color-border);">My Account</a></li>
+      <li><a href="#" style="display:block;padding:12px 0;">Wishlist</a></li>
+    </ul>
+    <div style="margin-top:24px;font-size:13px;color:var(--color-text-muted);">
+      <strong style="color:var(--color-text);">Need help?</strong><br>
+      Call 080-4206-7320<br>Mon–Sun, 9am–9pm
+    </div>
+  </div>
+</nav>
+
+<!-- Cart Drawer -->
+<div class="drawer-overlay" id="cartOverlay"></div>
+<aside class="side-drawer" id="cartDrawer" aria-label="Shopping cart">
+  <div class="drawer-header">
+    <strong>Your Cart</strong>
+    <button class="drawer-close" data-close-drawer aria-label="Close cart">&times;</button>
+  </div>
+  <div class="drawer-body cart-items-list"><!-- rendered by JS --></div>
+  <div class="drawer-footer">
+    <div class="cart-subtotal-row"><span>Subtotal</span><span class="cart-subtotal-value">₹1,290</span></div>
+    <p class="hint" style="margin-bottom:12px;">Shipping and taxes calculated at checkout.</p>
+    <button class="btn btn-primary btn-block">Proceed to Checkout</button>
+  </div>
+</aside>
+
+<button class="back-to-top" aria-label="Back to top">
+  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>
+</button>

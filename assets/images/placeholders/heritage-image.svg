@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820" role="img" aria-label="Est. 1951">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6B1F2A"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="820" fill="url(#g)"/>
+  <rect x="10" y="10" width="700" height="800" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="688" height="788" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.132"/>
+<path d="M 14 75.2 L 14 14 L 75.2 14" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="64.4" cy="64.4" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 706 75.2 L 706 14 L 644.8 14" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="655.6" cy="64.4" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 14 744.8 L 14 806 L 75.2 806" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="64.4" cy="755.6" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 706 744.8 L 706 806 L 644.8 806" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="655.6" cy="755.6" r="2" fill="#9C7A3C" opacity="0.32"/>
+  
+  <circle cx="360.0" cy="328.0" r="144.0" fill="#FFFFFF" opacity="0.6"/><circle cx="360.0" cy="328.0" r="144.0" fill="none" stroke="#9C7A3C" stroke-width="1.2" opacity="0.4"/><circle cx="360.0" cy="328.0" r="150.0" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.18"/>
+  <rect x="274.9090909090909" y="282.1818181818182" width="170.1818181818182" height="130.9090909090909" rx="6.545454545454546" fill="none" stroke="#9C7A3C" stroke-width="4.581818181818182"/><line x1="274.9090909090909" y1="282.1818181818182" x2="445.0909090909091" y2="282.1818181818182" stroke="#9C7A3C" stroke-width="4.581818181818182"/><line x1="360.0" y1="242.9090909090909" x2="360.0" y2="413.0909090909091" stroke="#9C7A3C" stroke-width="4.581818181818182"/><path d="M 327.27272727272725 242.9090909090909 Q 294.54545454545456 197.0909090909091 360.0 242.9090909090909 Q 425.45454545454544 197.0909090909091 392.72727272727275 242.9090909090909" fill="none" stroke="#9C7A3C" stroke-width="3.665454545454546"/>
+  <text x="50%" y="486.4" text-anchor="middle" font-family="Georgia, 'Playfair Display', serif" font-size="37.44" fill="#FFFFFF" font-weight="600">Est. 1951</text><text x="50%" y="508.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="23.04" fill="#9C7A3C" letter-spacing="1">MALLESHWARAM, BENGALURU</text>
+</svg>

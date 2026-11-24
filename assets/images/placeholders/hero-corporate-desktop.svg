@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-label="Corporate gifting hero">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6B1F2A"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="520" fill="url(#g)"/>
+  <rect x="10" y="10" width="1420" height="500" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="1408" height="488" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.132"/>
+<path d="M 14 58.2 L 14 14 L 58.2 14" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="50.400000000000006" cy="50.400000000000006" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 1426 58.2 L 1426 14 L 1381.8 14" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="1389.6" cy="50.400000000000006" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 14 461.8 L 14 506 L 58.2 506" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="50.400000000000006" cy="469.6" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 1426 461.8 L 1426 506 L 1381.8 506" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="1389.6" cy="469.6" r="2" fill="#9C7A3C" opacity="0.32"/>
+  <g opacity="0.5"><rect x="1243.7636363636364" y="381.4909090909091" width="104.47272727272728" height="68.30909090909091" rx="6.027272727272727" fill="none" stroke="#9C7A3C" stroke-width="2.812727272727273"/><path d="M 1271.8909090909092 381.4909090909091 L 1271.8909090909092 365.41818181818184 Q 1271.8909090909092 357.3818181818182 1279.9272727272728 357.3818181818182 L 1312.0727272727272 357.3818181818182 Q 1320.1090909090908 357.3818181818182 1320.1090909090908 365.41818181818184 L 1320.1090909090908 381.4909090909091" fill="none" stroke="#9C7A3C" stroke-width="2.591727272727273"/></g><circle cx="1296.0" cy="405.6" r="88.4" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.25"/>
+  
+  
+  
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="420" viewBox="0 0 390 420" role="img" aria-label="Seasonal collections hero">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#55624C"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="390" height="420" fill="url(#g)"/>
+  <rect x="10" y="10" width="370" height="400" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="358" height="388" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.132"/>
+<path d="M 14 47.150000000000006 L 14 14 L 47.150000000000006 14" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="41.300000000000004" cy="41.300000000000004" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 376 47.150000000000006 L 376 14 L 342.85 14" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="348.7" cy="41.300000000000004" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 14 372.85 L 14 406 L 47.150000000000006 406" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="41.300000000000004" cy="378.7" r="2" fill="#9C7A3C" opacity="0.32"/>
+<path d="M 376 372.85 L 376 406 L 342.85 406" fill="none" stroke="#9C7A3C" stroke-width="1.4" opacity="0.4"/><circle cx="348.7" cy="378.7" r="2" fill="#9C7A3C" opacity="0.32"/>
+  <g opacity="0.5"><path d="M 314.8363636363636 351.70909090909095 Q 335.9318181818182 288.4227272727273 387.1636363636364 303.4909090909091 Q 366.0681818181818 366.77727272727276 314.8363636363636 351.70909090909095 Z" fill="none" stroke="#9C7A3C" stroke-width="2.1095454545454544"/><line x1="320.8636363636364" y1="342.66818181818184" x2="381.1363636363636" y2="312.5318181818182" stroke="#9C7A3C" stroke-width="1.2657272727272726"/></g><circle cx="351.0" cy="327.6" r="66.3" fill="none" stroke="#9C7A3C" stroke-width="1" opacity="0.25"/>
+  
+  
+  
+</svg>

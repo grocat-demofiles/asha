@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-label="Chow Chow">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6EFE2"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" fill="url(#g)"/>
+  <rect x="10" y="10" width="620" height="620" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.35"/>
+  <rect x="16" y="16" width="608" height="608" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.132"/>
+<path d="M 14 68.4 L 14 14 L 68.4 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="58.800000000000004" cy="58.800000000000004" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 626 68.4 L 626 14 L 571.6 14" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="581.2" cy="58.800000000000004" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 14 571.6 L 14 626 L 68.4 626" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="58.800000000000004" cy="581.2" r="2" fill="#6B1F2A" opacity="0.32"/>
+<path d="M 626 571.6 L 626 626 L 571.6 626" fill="none" stroke="#6B1F2A" stroke-width="1.4" opacity="0.4"/><circle cx="581.2" cy="581.2" r="2" fill="#6B1F2A" opacity="0.32"/>
+  
+  <circle cx="320.0" cy="256.0" r="128.0" fill="#FFFFFF" opacity="0.6"/><circle cx="320.0" cy="256.0" r="128.0" fill="none" stroke="#6B1F2A" stroke-width="1.2" opacity="0.4"/><circle cx="320.0" cy="256.0" r="134.0" fill="none" stroke="#6B1F2A" stroke-width="1" opacity="0.18"/>
+  <path d="M 244.36363636363637 302.54545454545456 Q 261.8181818181818 197.8181818181818 320.0 226.9090909090909 Q 378.1818181818182 180.36363636363637 395.6363636363636 302.54545454545456 Z" fill="none" stroke="#6B1F2A" stroke-width="4.072727272727272"/><circle cx="327.1" cy="263.6" r="5.236363636363636" fill="#6B1F2A"/><circle cx="284.9" cy="283.7" r="5.236363636363636" fill="#6B1F2A"/><circle cx="356.2" cy="263.8" r="5.236363636363636" fill="#6B1F2A"/><circle cx="302.9" cy="270.8" r="5.236363636363636" fill="#6B1F2A"/><circle cx="308.6" cy="257.7" r="5.236363636363636" fill="#6B1F2A"/><circle cx="293.6" cy="249.7" r="5.236363636363636" fill="#6B1F2A"/><circle cx="314.7" cy="282.9" r="5.236363636363636" fill="#6B1F2A"/><circle cx="295.8" cy="279.3" r="5.236363636363636" fill="#6B1F2A"/><circle cx="312.8" cy="261.9" r="5.236363636363636" fill="#6B1F2A"/><circle cx="345.7" cy="240.7" r="5.236363636363636" fill="#6B1F2A"/>
+  <text x="50%" y="396.8" text-anchor="middle" font-family="Georgia, 'Playfair Display', serif" font-size="33.28" fill="#241F1A" font-weight="600">Chow Chow</text><text x="50%" y="418.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="20.48" fill="#6B1F2A" letter-spacing="1">ASHA SWEET CENTER</text>
+</svg>
